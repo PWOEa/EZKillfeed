@@ -1,0 +1,58 @@
+[
+    {
+        "deathType": "UNKNOWN",
+        "active": 1,
+        "KillPhrases": [
+            "Умер от чего-то?"
+        ]
+    },
+    {
+        "deathType": "PVP",
+        "active": 1,
+        "KillPhrases": [
+            ""
+        ]
+    },
+    {
+        "deathType": "SUICIDE",
+        "active": 1,
+        "KillPhrases": [
+            "Суициднулся"
+        ]
+    },
+    {
+        "deathType": "BLEEDING",
+        "active": 1,
+        "KillPhrases": [
+            "Умер от потери крови"
+        ]
+    },
+    {
+        "deathType": "STARVING",
+        "active": 1,
+        "KillPhrases": [
+            "Не доел мамин супчик!"
+        ]
+    },
+    {
+        "deathType": "ZOMBIE",
+        "active": 1,
+        "KillPhrases": [
+            "Зомби выбрали легкий путь"
+        ]
+    },
+    {
+        "deathType": "ANIMAL",
+        "active": 1,
+        "KillPhrases": [
+            "Зацарапали досмерти"
+        ]
+    },
+    {
+        "deathType": "FALL",
+        "active": 1,
+        "KillPhrases": [
+            "Died of high altitude"
+        ]
+    }
+]
